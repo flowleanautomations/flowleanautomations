@@ -1,16 +1,23 @@
-## Hi there 👋
+# Flowlean Automation
 
-<!--
-**flowleanautomations/flowleanautomations** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**More Shopify sales without adding headcount.**  
+I build **Ops Systems** for Shopify DTC brands doing **$20k+/mo+**.
 
-Here are some ideas to get you started:
+## Outcomes
+- **Revenue Recovery:** abandoned checkout + failed payments → automated sequences
+- **Inventory Control:** stockout prevention + replenishment alerts
+- **Support Ops:** faster replies + consistent post-purchase handling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Delivery standard
+- **7-day setup**
+- Monitoring + error handling + rollback plan
+- SOP + checklist (so the system runs without you)
+
+## Assets
+- Shopify Ops Automations (n8n workflows + docs): https://github.com/flowleanautomations/shopify-ops-automations
+
+## Contact
+- LinkedIn (DM): https://www.linkedin.com/in/flowlean-ivan-bacari
+- Website: https://flowleanautomation.com
+
+— Operated by **BACARIIVAN LLC**
